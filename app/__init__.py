@@ -1,0 +1,3 @@
+"""
+NyayaSetu AI application package.
+"""
